@@ -18,6 +18,6 @@ Entregables:
 
 Trabajo escrito
 
-Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.
+Código rn jupyter con el análisis exploratorio de los datos, con la carga de la información de los padecimientos registrados
 
 Presentación del proyecto.
