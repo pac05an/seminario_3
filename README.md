@@ -1,9 +1,23 @@
-TITUTLO  DEL PROYECTO: Codificador de padecimientos obstetricos según la clasificaciín CIE-10
-presenta: FRANCISCO EDUARDO ZAVALA RODRIGUEZ
-mail:  franciscozaval@gmail.com
-revisor1 : sin asignar
-revisor2: sin asignar
+Seminario-de-proyectos
+Proyecto-de-investigacion
+Trabajo de investigación de Proyectos III del 4to semestre en la Maestría en Ciencia de Datos e Información del Infotec.
 
-debido a que el video de mi trabajo es un poco pesad dejo el link : https://youtu.be/-hKzfa_3N0Q
-el archivo en el que se va trabajar este proyecto esta en la carpeta trabajo escrito y es el documento formato.docx "Seminario_3"
+Tema: Codificación de padecimientos obstetricos con ayuda de la clasificación CIE-10
 
+Alumno: FRANCISCO EDUARDO ZAVALA RODRIGUEZ
+
+Correo: franciscozaval@gmail.com
+
+Revisores:
+
+Revisor 1: Sin asignar
+
+Revisor 2: Sin asignar
+
+Entregables:
+
+Trabajo escrito
+
+Jupyter notebook con el análisis exploratorio de los datos y el primer modelo aplicado.
+
+Presentación del proyecto.
