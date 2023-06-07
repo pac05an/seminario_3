@@ -14,10 +14,10 @@ Revisor 1: Sin asignar
 
 Revisor 2: Sin asignar
 
-Entregables:
+Entregables
 
-Trabajo escrito
+Trabajo escrito: https://github.com/seminario-proyectos-infotec/Unfailing6195/blob/main/trabajo_escrito/seminario_3.pdf
 
-Código rn jupyter con el análisis exploratorio de los datos, con la carga de la información de los padecimientos registrados
+Código: https://github.com/seminario-proyectos-infotec/Unfailing6195/blob/main/c%C3%B3digo/pnl.ipynb
 
-Presentación del proyecto.
+Presentación del proyecto: https://github.com/seminario-proyectos-infotec/Unfailing6195/blob/main/presentaci%C3%B3n/presentacion_seminario_3.pptx
