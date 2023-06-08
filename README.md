@@ -21,5 +21,6 @@ Trabajo escrito: https://github.com/seminario-proyectos-infotec/Unfailing6195/bl
 Código: https://github.com/seminario-proyectos-infotec/Unfailing6195/blob/main/c%C3%B3digo/pnl.ipynb
 
 Presentación del proyecto: https://github.com/seminario-proyectos-infotec/Unfailing6195/blob/main/presentaci%C3%B3n/presentacion_seminario_3.pptx
+
 video: https://www.youtube.com/watch?v=-hKzfa_3N0Q
 
